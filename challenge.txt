@@ -1,0 +1,35 @@
+LAB 07 CHALLENGE ADD-ONS - Create User, Record List, and DaisyUI Redesign
+
+Complete the 9 challenge add-ons below after finishing the tutorial activity.
+
+1. Three User Records
+   Insert at least three user records using the create-user form.
+
+2. Required Field Validation
+   Validate firstname, lastname, username, password, and confirm password before inserting a record.
+
+3. Password Match Check
+   Reject the form if password and confirm password do not match.
+
+4. User Records Table
+   Update user_records.php so it displays all users in an HTML table with ID, firstname, lastname, and username.
+
+5. Hide Passwords in the List
+   Do not display the actual password in the records table.
+
+6. Success and Error Alerts
+   Show a success alert after a record is created and an error alert when validation fails.
+
+7. Add User Navigation
+   Keep a working Add User link on the records page so the user can return to the form.
+
+8. Tailwind CSS and DaisyUI User Dashboard
+   Redesign user_add.php and user_records.php using Tailwind CSS and DaisyUI. Use a form card, alert components, and a styled records table.
+
+9. Screenshot Evidence
+   Submit screenshots of the redesigned form, the records table with at least three users, and the phpMyAdmin users table.
+
+Submission:
+Submit the edited PHP files and screenshots of the browser and phpMyAdmin output.
+
+**Note:** The instructor will provide the Google Drive repository link for submitting your work during class hours.
